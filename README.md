@@ -1,4 +1,5 @@
-# bar-service-analysis
+# Entertainment Venue Bar Service Analysis
+
 This project was for a predictive analytics class during undergrad, in which my team served as consultants for a large entertainment venue looking to improve their bar throughput and revenues.
 
 For this project, we reviewed video footage of their bar during an active time to log data of how long transactions were taking, what drinks were being ordered, and what station of the bar the transactions were happening at.
